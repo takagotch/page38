@@ -1,8 +1,8 @@
-title: Long Haul
+title: Takagotch tkvtv
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://takagotch.github.io/page38
-baseurl: ""
+baseurl: "https://takagotch.github.io/page38"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
